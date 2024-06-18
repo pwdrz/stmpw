@@ -1,0 +1,26 @@
+// Fonts configuration
+
+
+/* Bellefair Regular */
+@font-face {
+    font-family: 'Bellefair';
+    src: url('/public/fonts/Bellefair-Regular.ttf');
+    src: local(''),
+         url('/public/fonts/Bellefair-Regular.ttf') format('truetype');
+}
+
+/* Barlow Regular */
+@font-face {
+    font-family: 'Barlow';
+    src: url('/public/fonts/Barlow-Regular.ttf');
+    src: local(''),
+         url('/public/fonts/Barlow-Regular.ttf') format('truetype');
+}
+
+/* Barlow Condensed Regular */
+@font-face {
+    font-family: 'BarlowCondensed';
+    src: url('/public/fonts/BarlowCondensed-Regular.ttf');
+    src: local(''),
+         url('/public/fonts/BarlowCondensed-Regular.ttf') format('truetype');
+}

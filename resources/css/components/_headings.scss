@@ -1,0 +1,25 @@
+.headings {
+    font-family: 'Bellefair';
+
+    &--xl {
+        font-size: 144px;
+    }
+
+    &--l {
+        font-size: 100px;
+    }
+
+    &--m {
+        font-size: 56px;
+    }
+
+    &--s {
+        font-size: 32px;
+    }
+
+    &--xs {
+        font-family: 'BarlowCondensed';
+        font-size: 28px;
+        letter-spacing: 4px;
+    }
+}
